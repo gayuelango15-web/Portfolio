@@ -30,7 +30,7 @@ A modern and responsive personal portfolio website built using React, Vite, Tail
 
 Add your deployed Vercel URL here:
 
-https://your-portfolio.vercel.app
+portfolio-gayuelango15.vercel.app
 
 ## Installation
 
