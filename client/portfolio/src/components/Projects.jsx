@@ -24,7 +24,7 @@ function Projects() {
       image: quizImg,
       technologies: ["HTML", "CSS", "JavaScript", "TailwindCSS"],
       github: "https://github.com/gayuelango15-web/quiz-app",
-      live: "#",
+      live: "https://quiz-app-demo.vercel.app",
     },
 
     {
@@ -35,7 +35,7 @@ function Projects() {
       image: expenseImg,
       technologies: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/gayuelango15-web/Expense-Tracker",
-      live: "#",
+      live: "https://Expense-Tracker.vercel.app",
     },
 
     {
@@ -46,7 +46,7 @@ function Projects() {
       image: todoImg,
       technologies: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/gayuelango15-web/todo-app",
-      live: "#",
+      live: "https://todo-app-demo.vercel.app",
     },
 
     {
@@ -57,7 +57,7 @@ function Projects() {
       image: weatherImg,
       technologies: ["HTML", "CSS", "JavaScript", "API"],
       github: "https://github.com/gayuelango15-web/Weather-App",
-      live: "#",
+      live: "https://Weather-App-demo.vercel.app",
     },
 
     {
@@ -68,7 +68,7 @@ function Projects() {
       image: studentImg,
       technologies: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/gayuelango15-web/Student-System",
-      live: "#",
+      live: "https://Student-System-demo.vercel.app",
     },
   ];
 
