@@ -144,7 +144,7 @@ function Hero() {
               <div className="relative w-[320px] h-[320px] lg:w-[450px] lg:h-[450px] rounded-full bg-gradient-to-r from-blue-500 via-purple-500 to-green-500 p-2">
 
                 <img
-                  src="/photo.jpeg"
+                  src="/photos.jpeg"
                   alt="Gayathri"
                   className="w-full h-full object-cover rounded-full border-8 border-white"
                 />
